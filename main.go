@@ -10,6 +10,7 @@ import (
     "strings"
     "time"
 
+		"github.com/joho/godotenv"
     goshopify "github.com/tao-s/go-shopify"
 )
 
